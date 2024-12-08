@@ -1,0 +1,42 @@
+name: gfsa_nlu
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - pip=23.1.2
+  - python=3.9.7
+  - cuda=11.6.1
+  - cuda-cccl=11.6.55
+  - cuda-command-line-tools=11.6.2
+  - cuda-compiler=11.6.2
+  - cuda-cudart=11.6.55
+  - cuda-cudart-dev=11.6.55
+  - cuda-cuobjdump=11.6.124
+  - cuda-cupti=11.6.124
+  - cuda-cuxxfilt=11.6.124
+  - cuda-driver-dev=11.6.55
+  - cuda-gdb=12.2.53
+  - cuda-libraries=11.6.1
+  - cuda-libraries-dev=11.6.1
+  - cuda-memcheck=11.8.86
+  - cuda-nsight=12.2.53
+  - cuda-nsight-compute=12.2.0
+  - cuda-nvcc=11.6.124
+  - cuda-nvdisasm=12.2.53
+  - cuda-nvml-dev=11.6.55
+  - cuda-nvprof=12.2.60
+  - cuda-nvprune=11.6.124
+  - cuda-nvrtc=11.6.124
+  - cuda-nvrtc-dev=11.6.124
+  - cuda-nvtx=11.6.124
+  - cuda-nvvp=12.2.60
+  - cuda-runtime=11.6.1
+  - cuda-samples=11.6.101
+  - cuda-sanitizer-api=12.2.53
+  - cuda-toolkit=11.6.1
+  - cuda-tools=11.6.1
+  - cuda-visual-tools=11.6.1
+  - pytorch=1.13.1
+  - pytorch-cuda=11.6
+  - pytorch-mutex=1.0

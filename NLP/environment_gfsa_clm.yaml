@@ -1,0 +1,43 @@
+name: gfsa_clm
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - cuda-cudart=11.7.99
+  - cuda-cupti=11.7.101
+  - cuda-libraries=11.7.1
+  - cuda-nvrtc=11.7.99
+  - cuda-nvtx=11.7.91
+  - cuda-runtime=11.7.1
+  - cudatoolkit=11.1.74
+  - datasets=2.12.0
+  - evaluate=0.4.0
+  - huggingface_hub=0.15.1
+  - pandas=1.5.3
+  - pip=23.1.2
+  - protobuf=3.20.3
+  - python=3.9.17
+  - python-dateutil=2.8.2
+  - python-slugify=5.0.2
+  - python-xxhash=2.0.2
+  - pytorch-cuda=11.7
+  - pip:
+    - accelerate==0.21.0
+    - huggingface-hub==0.16.4
+    - numpy==1.24.4
+    - nvidia-cublas-cu11==11.10.3.66
+    - nvidia-cuda-cupti-cu11==11.7.101
+    - nvidia-cuda-nvrtc-cu11==11.7.99
+    - nvidia-cuda-runtime-cu11==11.7.99
+    - nvidia-cudnn-cu11==8.5.0.96
+    - nvidia-cufft-cu11==10.9.0.58
+    - nvidia-curand-cu11==10.2.10.91
+    - nvidia-cusolver-cu11==11.4.0.1
+    - nvidia-cusparse-cu11==11.7.4.91
+    - nvidia-nccl-cu11==2.14.3
+    - nvidia-nvtx-cu11==11.7.91
+    - packaging==23.1
+    - tokenizers==0.13.3
+    - torch==2.0.1
+    - transformers==4.32.0.dev0
