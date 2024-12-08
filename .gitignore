@@ -1,0 +1,11 @@
+.DS_Store
+*/.DS_Store
+__pycache__
+*/__pycache__
+
+*.log
+
+Image/logs/*.pth
+Image/swin/output
+
+Code/saved_models
