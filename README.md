@@ -123,3 +123,7 @@ If you use this code for your research, please cite our paper:
    url={https://openreview.net/forum?id=ffNrpcBpi6}
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jeongwhanchoi/GFSA&type=Date)](https://star-history.com/#jeongwhanchoi/GFSA&Date)
