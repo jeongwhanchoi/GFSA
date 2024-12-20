@@ -25,7 +25,9 @@
     - 🖼️ See [our poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94193.png?t=1733675592.777139)
     - 📄 Read [the paper](https://arxiv.org/abs/2312.04234)
     - 📽️ Watch [the video presentation](https://neurips.cc/virtual/2024/poster/94193) and [slides](https://neurips.cc/media/neurips-2024/Slides/94193_0yIQJyD.pdf)
+- **Dec 3, 2024**: 🏆 With this work, Jeongwhan Choi and Hyowon Wi have won a [2024 Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-south-korea)!
 - **Dec 9, 2024**: Our source code is available now!
+- **Oct 23, 2024**: 🏆 With this work, Jeongwhan Choi and Hyowon Wi were qualified as [a Qualcomm Innovation Fellowship Finalist in the field of AI/ML](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-south-korea).
 - **Sep 26, 2024**: Our paper has been accepted to NeurIPS 2024! 🎉
 
 ## Introduction
