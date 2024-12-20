@@ -21,7 +21,10 @@
 ---
 
 ## 📢 News!
-- **Dec 11, 2024**: We presented our work at NeurIPS 2024! 🚀
+- **Dec 11, 2024**: We presented [our work](https://neurips.cc/virtual/2024/poster/94193) at NeurIPS 2024! 🚀
+    - 🖼️ See [our poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94193.png?t=1733675592.777139)
+    - 📄 Read [the paper](https://arxiv.org/abs/2312.04234)
+    - 📽️ Watch [the video presentation](https://neurips.cc/virtual/2024/poster/94193) and [slides](https://neurips.cc/media/neurips-2024/Slides/94193_0yIQJyD.pdf)
 - **Dec 9, 2024**: Our source code is available now!
 - **Sep 26, 2024**: Our paper has been accepted to NeurIPS 2024! 🎉
 
