@@ -20,6 +20,11 @@
 
 ---
 
+## 📢 News!
+- **Dec 11, 2024**: We presented our work at NeurIPS 2024! 🚀
+- **Dec 9, 2024**: Our source code is available now!
+- **Sep 26, 2024**: Our paper has been accepted to NeurIPS 2024! 🎉
+
 ## Introduction
 
 - Graph Filter-based Self-Attention (**GFSA**) is a novel approach to enhance the self-attention mechanism in Transformers. 
