@@ -2,7 +2,9 @@
 <h1>Graph Convolutions Enrich the Self-Attention in Transformers!</h1>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/jeongwhanchoi/GFSA) ![Twitter Follow](https://img.shields.io/twitter/follow/jeongwhan_choi?style=social)
- [![arXiv](https://img.shields.io/badge/arXiv-2312.04234-b31b1b.svg)](https://arxiv.org/abs/2312.04234) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongwhanchoi%2FGFSA&count_bg=%230D6CFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ [![arXiv](https://img.shields.io/badge/arXiv-2312.04234-b31b1b.svg)](https://arxiv.org/abs/2312.04234)
+ [![alphaXiv](https://img.shields.io/badge/alphaXiv-ff0000.svg)](https://www.alphaxiv.org/abs/2312.04234) 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongwhanchoi%2FGFSA&count_bg=%230D6CFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div>
       <a href="https://www.jeongwhanchoi.com" target="_blank"><b>Jeongwhan Choi</b></a><sup>1*</sup>,
@@ -21,6 +23,7 @@
 ---
 
 ## 📢 News!
+- **Mar 3, 2025**: 📰 [alphaXiv](https://www.alphaxiv.org/overview/2312.04234) has generated a blog post of our paper!
 - **Dec 11, 2024**: We presented [our work](https://neurips.cc/virtual/2024/poster/94193) at NeurIPS 2024! 🚀
     - 🖼️ See [our poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94193.png?t=1733675592.777139)
     - 📄 Read [the paper](https://arxiv.org/abs/2312.04234)
